@@ -70,6 +70,7 @@ $ npm run dev
 
 As principais ferramentas foram usadas na construção do projeto:
 
+- **[Vite](https://vitejs.dev)**
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[Tailwind](https://tailwindcss.com)**
 - **[Zod](https://zod.dev/)**
