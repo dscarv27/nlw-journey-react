@@ -48,7 +48,7 @@ Passo a passo para clonar e executar a aplicação na sua máquina:
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:dscarv27/nlw-journey-react.git
+$ git clone https://github.com/dscarv27/nlw-journey-react.git
 
 # Acesse a pasta do projeto no terminal
 $ cd frontend
