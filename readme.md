@@ -61,6 +61,9 @@ $ npm run dev
 
 # Para conectar com o backend (opcional), acessar e seguir o readme em:
 [backend-nodejs](https://github.com/dscarv27/nlw-journey-nodejs)
+
+# Para fazer testes/implementações com as rotas, acessar a documentação:
+[api-documentation](https://nlw-journey.apidocumentation.com/reference)
 ```
 
 ## 🛠 Technologies
